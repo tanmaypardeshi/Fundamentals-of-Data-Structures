@@ -1,3 +1,12 @@
+/*
+============================================================================
+Class:- SE 10
+Batch:- H 10
+Roll no:- 23260
+Name:- Tanmay Pardeshi
+Assignment title:- Generalised Linked List
+============================================================================
+*/
 #include<stdio.h>
 #include<stdlib.h>
 

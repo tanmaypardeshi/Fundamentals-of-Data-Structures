@@ -1,4 +1,12 @@
-//Assignment 7 PL
+/*
+============================================================================
+Class:- SE 10
+Batch:- H 10
+Roll no:- 23260
+Name:- Tanmay Pardeshi
+Assignment title:- Quick Sort
+============================================================================
+*/
 
 #include <stdio.h>
 #include <stdlib.h>
