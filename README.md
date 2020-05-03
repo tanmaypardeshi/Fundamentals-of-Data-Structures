@@ -6,7 +6,7 @@
 
 
 | Program Name                     | Problem Description                  |
-| :-----------------------------:  | :--------------------------------:   |
+| :-----------------------------:  | :--------------------------------    |
 |[Assignment1.c](Assignment1.c)|Operations on sets|
 |[Assignment2.c](Assignment2.c)|Operations on matrices|
 |[Assignment3.c](Assignment3.c)|String Operations|
