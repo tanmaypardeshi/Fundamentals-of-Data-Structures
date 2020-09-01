@@ -1,4 +1,4 @@
-# Fundamentals of Data Sructures Assignments
+# Fundamentals of Data Structures Assignments
 
 ## All fundamentals of data structures assignments of SPPU Second Year IT Syllabus
 
